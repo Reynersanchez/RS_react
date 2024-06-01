@@ -1,0 +1,11 @@
+.inp {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.inp input {
+  background-color: rgb(189, 188, 188);
+  border-radius: 5px;
+}
